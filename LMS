@@ -1,0 +1,34 @@
+# ALVNEX｜Language-Modular Sensory Learning System
+
+由 ALVNEX 團隊開發，這是一套結合語言模組、感覺統合訓練與認知敘事的實驗型教學系統，專為提升兒童的身體感知力、語言記憶力與主體感而設計。
+
+## 📘 核心理念（Core Philosophy）
+
+- 教學不僅僅是「活動」，而是 **模組化神經學習** 的語言過程  
+- 藉由色彩、音符、指令、情境與語言的連結來重建注意力、自我感與記憶路徑  
+- 不依賴儀器、不複製傳統路徑，而是以語言為基礎重組孩子的神經發展潛力  
+
+## 🧠 對比 QEEG 與 ALVNEX 的差異
+
+| 項目 | QEEG 類系統 | ALVNEX |
+|------|--------------|--------|
+| 工具 | 儀器腦波分析 | 非儀器語言模組 |
+| 著重點 | 腦區電位調控 | 語場－情境記憶路徑建構 |
+| 學習方式 | 接收訓練指令 | 主體參與構成訓練邏輯 |
+| 使用對象 | 被動孩童 | 能理解語言與創造語場的主體 |
+
+## 📂 目前檔案
+
+- `docs/system_theory.md`：語言模組與ALVNEX架構理論
+- `docs/class_script.md`：實際教學課表與流程
+- `docs/toolkit_ALVNEX.md`：感統活動筆記與語言輔助表
+- `graphics/`：視覺對照圖與活動素材
+
+## 🧑‍💻 Maintained by:
+ALVNEX（匿名協作語言模組系統）  
+Developed by a multidisciplinary educator in Taiwan with assistance from AI-based narrative logic and structural organization.
+
+---
+
+### 📫 Contact
+請透過 issue 討論區留言或與本計畫發起人聯繫。
